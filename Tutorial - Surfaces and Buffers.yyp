@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":3,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":2,},
+    {"id":{"name":"spr_checkerboard","path":"sprites/spr_checkerboard/spr_checkerboard.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
   "Options": [
